@@ -5,7 +5,7 @@ title: LogiShield - Offline Package Tamper Monitoring System
 
 excerpt: Our project aims to resolve the problem of tampering before accepting the delivery package. 
 
-image: logishield/coverpicture.png
+image: coverpicture.png
 
 tags:
   - Delivery
