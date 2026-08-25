@@ -232,7 +232,7 @@ Our team has developed a mobile application through which customers can scan the
   │   ├─ qr_code_image.jpeg
   │   └─ demo_video.mp4
   ├─ coverpicture.png
-  └─ logishield_readme.md
+  └─ README.md
 ```
 ---
 ## License 
